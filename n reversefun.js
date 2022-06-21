@@ -1,6 +1,6 @@
 let x;
 let i;
-x = 575;
+x = 153;
 console.log(+x);
 while (x != 0) {
   reminder = x % 10; 

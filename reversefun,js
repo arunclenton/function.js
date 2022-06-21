@@ -9,5 +9,5 @@ function reverse(x){
     }
     return sum;
 }
-var result = reverse(599);
+var result = reverse(677);
 console.log(+result);
